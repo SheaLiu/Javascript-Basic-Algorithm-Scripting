@@ -7,3 +7,7 @@ Basic JS From FreeCodeCamp
 
 2️⃣Find the Longest Word in a String
 》》》涉及到for,split(),sort(),reduce(),Math.max(),pop()多种方法
+
+
+3️⃣Chunky Monkey
+》》》分割数组，slice()
