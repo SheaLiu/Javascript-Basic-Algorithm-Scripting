@@ -14,3 +14,6 @@ Basic JS From FreeCodeCamp
 
 4️⃣Seek and Destroy
 》》》filter(),以及arguments
+
+5️⃣Caesars Cipher
+》》》String.charCodeAt(),String.fromCharCode()
