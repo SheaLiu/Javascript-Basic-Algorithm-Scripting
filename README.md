@@ -11,3 +11,6 @@ Basic JS From FreeCodeCamp
 
 3️⃣Chunky Monkey
 》》》分割数组，slice()
+
+4️⃣Seek and Destroy
+》》》filter(),以及arguments
